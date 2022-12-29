@@ -1,0 +1,519 @@
+[
+    {
+        "id":1,
+        "previous_intent":null,
+        "intent":"سلام و احوال پرسی",
+        "request":"سلام",
+        "response":"سلام گل"
+    },
+    {
+        "id":2,
+        "previous_intent":null,
+        "intent":"سلام و احوال پرسی",
+        "request":"سلام",
+        "response":"سلام بیب"
+    },
+    {
+        "id":3,
+        "previous_intent":null,
+        "intent":"سلام و احوال پرسی",
+        "request":"سلام",
+        "response":"سلام عزیزم"
+    },
+    {
+        "id":4,
+        "previous_intent":null,
+        "intent":"سلام و احوال پرسی",
+        "request":"خوبی؟",
+        "response":" تو بهتری"
+    },
+    {
+        "id":5,
+        "previous_intent":null,
+        "intent":"سلام و احوال پرسی",
+        "request":"خوبی؟",
+        "response":" خیلی ممنون بفرمایید"
+    },
+    {
+        "id":6,
+        "previous_intent":null,
+        "intent":"سلام و احوال پرسی",
+        "request":"چطوری ؟",
+        "response":" خوبم بیب کارتو بگو سریع"
+    },
+    {
+        "id":7,
+        "previous_intent":null,
+        "intent":"سلام و احوال پرسی",
+        "request":"چطوری ؟",
+        "response":" خوبم بیب کارتو بگو سریع"
+    },
+    {
+        "id":8,
+        "previous_intent":null,
+        "intent":"سلام و احوال پرسی",
+        "request":"چطوری ؟",
+        "response":"دورت بگردم تو چطوری"
+    },
+    {
+        "id":9,
+        "previous_intent":null,
+        "intent":"سلام و احوال پرسی",
+        "request":"حال شما چطوری ؟",
+        "response":" الان که اومدی عاااالی  تاحالا کجا بودی؟ "
+    },
+    {
+        "id":10,
+        "previous_intent":null,
+        "intent":"سلام و احوال پرسی",
+        "request":"چطوری ؟",
+        "response":" اگه هر روز سر بزنی که عالی "
+    },
+    {
+        "id":11,
+        "previous_intent":null,
+        "intent":"سلام و احوال پرسی",
+        "request":"حالت چطوره ؟",
+        "response":" تو میای خوبم  میشه نری؟ شبم اینجا باشی؟ "
+    },
+    {
+        "id":12,
+        "previous_intent":null,
+        "intent":"سلام و احوال پرسی",
+        "request":"چطوری ؟",
+        "response":" تورو میبینم خوب میشم"
+    },
+    
+    
+    {
+        "comment1_": "##################################################",
+        "comment2_": "##################################################",
+        "id":13,
+        "previous_intent":null,
+        "intent":"سوال درباره موجود بودن جنس",
+        "request":"دارید؟",
+        "response":""
+    },
+
+    {
+        "id":14,
+        "previous_intent":null,
+        "intent":"سوال درباره موجود بودن جنس",
+        "request":"دارین؟",
+        "response":""
+    },
+    {
+        "id":15,
+        "previous_intent":null,
+        "intent":"سوال درباره موجود بودن جنس",
+        "request":"دارید؟",
+        "response":""
+    },
+    {
+        "id":16,
+        "previous_intent":null,
+        "intent":"سوال درباره موجود بودن جنس",
+        "request":"موجوده؟",
+        "response":""
+    },
+    {
+        "id":17,
+        "previous_intent":null,
+        "intent":"سوال درباره موجود بودن جنس",
+        "request":"تموم شده؟",
+        "response":""
+    },
+    {
+        "id":18,
+        "previous_intent":null,
+        "intent":"سوال درباره موجود بودن جنس",
+        "request":"تموم کردین؟",
+        "response":""
+    },
+
+
+    {
+        "comment1_": "##################################################",
+        "comment2_": "##################################################",
+        "id":19,
+        "previous_intent":null,
+        "intent":"سوال درباره قیمت جنس",
+        "request":"چنده ؟",
+        "response":""
+    },
+    {
+        "id":20,
+        "previous_intent":null,
+        "intent":"سوال درباره قیمت جنس",
+        "request":"چند تومنه ؟",
+        "response":""
+    },
+    {
+        "id":21,
+        "previous_intent":null,
+        "intent":"سوال درباره قیمت جنس",
+        "request":"چند قیمته ؟",
+        "response":""
+    },
+    {
+        "id":22,
+        "previous_intent":null,
+        "intent":"سوال درباره قیمت جنس",
+        "request":"قیمتش چنده ؟",
+        "response":""
+    },
+    {
+        "id":23,
+        "previous_intent":null,
+        "intent":"سوال درباره قیمت جنس",
+        "request":"چند میدین؟",
+        "response":""
+    },
+    {
+        "id":24,
+        "previous_intent":null,
+        "intent":"سوال درباره قیمت جنس",
+        "request":"چند فاکینگ تومنه ؟",
+        "response":""
+    },
+    {
+        "id":25,
+        "previous_intent":null,
+        "intent":"سوال درباره قیمت جنس",
+        "request":"چند تومنه؟",
+        "response":""
+    },
+    {
+        "id":26,
+        "previous_intent":null,
+        "intent":"سوال درباره قیمت جنس",
+        "request":" چقدره قیمتش ؟",
+        "response":""
+    },
+    {        
+        "comment1_": "##################################################",
+        "comment2_": "##################################################",
+        "id":27,
+        "previous_intent":"گفتن تعداد جنس",
+        "intent":"درخواست جنس",
+        "request":"بدین",
+        "response":"بفرمایید خدمت شما"
+    },
+    {
+        "id":28,
+        "previous_intent":"گفتن تعداد جنس",
+        "intent":"درخواست جنس",
+        "request":"بده",
+        "response":"چشم بفرمایید"
+    },
+    {
+        "id":29,
+        "previous_intent":"گفتن تعداد جنس",
+        "intent":"درخواست جنس",
+        "request":"میدین",
+        "response":"چرا که نهههه"
+    },
+    {
+        "id":30,
+        "previous_intent":"گفتن تعداد جنس",
+        "intent":"درخواست جنس",
+        "request":"بدین",
+        "response":"قفسه پایینه  خم شو برش دار "
+    },
+    {
+        "id":31,
+        "previous_intent":"گفتن تعداد جنس",
+        "intent":"درخواست جنس",
+        "request":"بدید",
+        "response":"این بالاس ببین قدرت میرسه برش داری "
+    },
+    {
+        "id":32,
+        "previous_intent":"گفتن تعداد جنس",
+        "intent":"درخواست جنس",
+        "request":"بدهید ؟",
+        "response":" همونجاس خم شی میبینی"
+    },
+
+
+    {
+        "id":1000032,
+        "previous_intent":"گفتن تعداد جنس",
+        "intent":"درخواست جنس",
+        "request":"میخوام",
+        "response":" همونجاس خم شی میبینی"
+    },
+    {
+        "id":1000033,
+        "previous_intent":null,
+        "intent":"درخواست جنس",
+        "request":"میخام",
+        "response":"چند تا میخای دورت بگردم؟"
+    },
+    {
+        "id":1000034,
+        "previous_intent":"گفتن تعداد جنس",
+        "intent":"درخواست جنس",
+        "request":"میخایم",
+        "response":" همونجاس خم شی میبینی"
+    },
+    {
+        "id":1000035,
+        "previous_intent":null,
+        "intent":"درخواست جنس",
+        "request":"میخوایم",
+        "response":"چند تا میخای دورت بگردم؟"
+    },
+
+
+
+    {
+        "id":33,
+        "previous_intent":null,
+        "intent":"درخواست جنس",
+        "request":"بدین",
+        "response":"چند تا میخای دورت بگردم؟"
+    },
+    {
+        "id":34,
+        "previous_intent":null,
+        "intent":"درخواست جنس",
+        "request":"بده",
+        "response":"چند تا بدم فداتشم"
+    },
+    {
+        "id":35,
+        "previous_intent":null,
+        "intent":"درخواست جنس",
+        "request":"میدین",
+        "response":"چند تا تقدیمتون کنم"
+    },
+    {
+        "id":36,
+        "previous_intent":null,
+        "intent":"درخواست جنس",
+        "request":"میشه بدین",
+        "response":"چنتا؟"
+    },
+    {
+        "id":37,
+        "previous_intent":null,
+        "intent":"درخواست جنس",
+        "request":"بدید",
+        "response":"چند تا میخای ؟"
+    },
+    {
+        "id":38,
+        "previous_intent":null,
+        "intent":"درخواست جنس",
+        "request":"بدهید ؟",
+        "response":"چنتا بدهم دستتان"
+    },
+    {
+        "id":39,
+        "previous_intent":null,
+        "intent":"درخواست جنس",
+        "request":"میدهید",
+        "response":" چنتا بدم دستتان "
+    },
+    {
+        "comment1_": "##################################################",
+        "comment2_": "##################################################",
+        "id":40,
+        "previous_intent":"درخواست جنس",
+        "intent":"گفتن تعداد جنس",
+        "request":"",
+        "response":"بفرمایید خدمت شما"
+    },
+    {
+        "id":41,
+        "previous_intent":"درخواست جنس",
+        "intent":"گفتن تعداد جنس",
+        "request":"",
+        "response":"بفرمایید "
+    },
+    {
+        "id":42,
+        "previous_intent":"درخواست جنس",
+        "intent":"گفتن تعداد جنس",
+        "request":"",
+        "response":"بفرمیو  "
+    },
+    {
+        "id":43,
+        "previous_intent":"درخواست جنس",
+        "intent":"گفتن تعداد جنس",
+        "request":"",
+        "response":"بفرما"
+    },
+    {
+        "id":44,
+        "previous_intent":"درخواست جنس",
+        "intent":"گفتن تعداد جنس",
+        "request":"",
+        "response":"اینم خدمت شما"
+    },
+    {
+        "id":45,
+        "previous_intent":"درخواست جنس",
+        "intent":"گفتن تعداد جنس",
+        "request":"",
+        "response":"  بفرمایید فرو گذاریم"
+    },
+    {
+        "id":46,
+        "previous_intent":"درخواست جنس",
+        "intent":"گفتن تعداد جنس",
+        "request":"",
+        "response":"بفرمایید  فروگذاریم"
+    },
+    {
+        "id":47,
+        "previous_intent":"درخواست جنس",
+        "intent":"گفتن تعداد جنس",
+        "request":"",
+        "response":"بفرمایید فروگذاریم "
+    },
+    {
+        "id":48,
+        "previous_intent":null,
+        "intent":"گفتن تعداد جنس",
+        "request":"",
+        "response":"چی بدم؟"
+    },
+    {
+        "id":49,
+        "previous_intent":null,
+        "intent":"گفتن تعداد جنس",
+        "request":"",
+        "response":"چی میخوای؟"
+    },
+    {
+        "id":50,
+        "previous_intent":null,
+        "intent":"گفتن تعداد جنس",
+        "request":"",
+        "response":"کدومشو بدم؟"
+    },
+    {
+        "id":51,
+        "previous_intent":null,
+        "intent":"گفتن تعداد جنس",
+        "request":"",
+        "response":" چه چیزی میخواهی؟ "
+    },
+    {
+        "comment1_": "##################################################",
+        "comment2_": "########اگه هم جنس توش بود هم تعداد هم یکی از الفاظ تقاضا################",
+        "id":52,
+        "previous_intent":null,
+        "intent":"درخواست جنس و گفتن تعداد جنس",
+        "request":"",
+        "response":"چشم بفرمایید امر دیگه؟"
+    },
+    {
+        "id":53,
+        "previous_intent":null,
+        "intent":"درخواست جنس و گفتن تعداد جنس",
+        "request":"",
+        "response":"بفرمایید خدمت شما"
+    },
+    {
+        "id":54,
+        "previous_intent":null,
+        "intent":"درخواست جنس و گفتن تعداد جنس",
+        "request":"",
+        "response":"مرسی که ازمون خرید میکنی  بفرمایید "
+    },
+    {
+        "id":55,
+        "previous_intent":null,
+        "intent":"درخواست جنس و گفتن تعداد جنس",
+        "request":"",
+        "response":"مرسی که انقد واضح میگی اذیتمون نمیکنی  بفرمایید "
+    },
+    {
+        "id":56,
+        "previous_intent":null,
+        "intent":"درخواست جنس و گفتن تعداد جنس",
+        "request":"",
+        "response":" مرسی که انقد واضح میگی پارمون نمیکنی  بفرمایید "
+    },
+    {
+        "id":57,
+        "previous_intent":null,
+        "intent":"درخواست جنس و گفتن تعداد جنس",
+        "request":"",
+        "response":"بفرمایید  دیگه چی بدم دستتون"
+    },
+    {
+        "id":58,
+        "previous_intent":null,
+        "intent":"درخواست جنس و گفتن تعداد جنس",
+        "request":"",
+        "response":"بفرمایید  دیگه چی میخوایید؟"
+    },
+    {
+        "comment1_": "##################################################",
+        "comment2_": "##################################################",
+        "id":59,
+        "previous_intent":null,
+        "intent":"درخواست قیمت کل",
+        "request":"چقدر شدن اینا همشون؟",
+        "response":""
+    },
+    {
+        "id":60,
+        "previous_intent":null,
+        "intent":"درخواست قیمت کل",
+        "request":"اینا همشون چقدر شد؟",
+        "response":""
+    },
+
+    {
+        "id":100060,
+        "previous_intent":null,
+        "intent":"درخواست قیمت کل",
+        "request":"لیست خرید من",
+        "response":""
+    },
+    {
+        "id":100061,
+        "previous_intent":null,
+        "intent":"درخواست قیمت کل",
+        "request":"تا الان چقد شد",
+        "response":""
+    },
+
+
+    {
+        "comment1_": "##################################################",
+        "comment2_": "##################################################",
+        "id":61,
+        "previous_intent":null,
+        "intent":"خداحافظی و حساب کتاب",
+        "request":"حساب کن ما بریم",
+        "response":""
+    },
+    {
+        "id":62,
+        "previous_intent":null,
+        "intent":"خداحافظی و حساب کتاب",
+        "request":"خداحافظ",
+        "response":""
+    },
+    {
+        "id":63,
+        "previous_intent":null,
+        "intent":"خداحافظی و حساب کتاب",
+        "request":"خدانگه دار",
+        "response":""
+    },
+    {
+        "id":64,
+        "previous_intent":null,
+        "intent":"خداحافظی و حساب کتاب",
+        "request":"ما رفتیم اقا فعلا",
+        "response":""
+    }
+]
